@@ -1,13 +1,8 @@
 ---
 category: software
-title: titulo
-description: Yet another placeholding project, but with Bills
-cover: https://www.fillmurray.com/g/400/200
-gallery: ['https://www.fillmurray.com/g/800/400', 'https://www.fillmurray.com/600/600']
+title: Mediciones higiénicas
+description: EDEMSA
+cover: https://expansivo.cl/wp-content/uploads/sites/5/2018/02/Electricas_de_Medellin.png
+gallery: []
 ---
-
-It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
-
-If you are in local development-mode (`npm run dev`) you can double-click here to edit this page quickly.
-
-Below are some Gallery photos that have been added to this Project.
+R﻿evisión y recomendaciones a los informes higiénicos año 2020 en diferentes sedes. Visita a diferentes centros de trabajo y propuestas de acciones y mejoras en uso de EPPs, equipos de emergencias, procedimiento de inspeccion de EPP específicos, filtros para respiración en los sitios con alto material particulado y en sitios de disposición a cielo abierto.
