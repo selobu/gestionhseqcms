@@ -1,7 +1,7 @@
 <template>
   <main>
     <section v-if="post">
-      <nav class="mb-8" aria-label="go back">
+      <nav class="mb-8" aria-label="regresar">
         <router-back class="block" />
       </nav>
 
