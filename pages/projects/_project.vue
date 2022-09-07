@@ -35,7 +35,7 @@ export default {
     try {
       post = await $content("projects", params.project).fetch();
     } catch (e) {
-      error({ message: "Project not found" });
+      error({ message: "Project no encontrado" });
     }
     return { post };
   },

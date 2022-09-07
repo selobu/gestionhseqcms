@@ -139,7 +139,7 @@ Originally based on [Henry Desroches' nuxt-netlify-cms-starter](https://github.c
 - > I get Netlify emails but can't use them to login etc.
 - It is probably because the 'netlify-identity-widget' is only included in the `/admin`-page. [Follow the advice here](https://answers.netlify.com/t/common-issue-netlify-cms-git-gateway-email-not-confirmed/10690) or enable the included email-templates’ paths in Netlify, under [Site Settings > Identity > Emails](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_SLUG/settings/identity) and there you can set `/static/emails/THE_TEMPLATE_NAME.html` for each template. This will make sure to use the correct links inside the emails. Look at @audetcameron’s [screenshot here](https://github.com/Knogobert/ntn-boilerplate/issues/8#issuecomment-841469850).
 
-- > "This repository is configured for Git LFS but 'git-lfs' was not found on your path."
+- > "This repository is configured for Git LFS but 'git-lfs' was no encontrado on your path."
 - Install git-lfs then run `git lfs install` in project root. Then to download the images, run `git lfs pull`. Or if you don't want to download the files/can't login to the lfs server, run `git lfs install --skip-smudge` instead.
 
 - > I can’t get Git LFS to run correctly on Netlify

@@ -14,7 +14,7 @@ export default {
     try {
       posts = await $content("blog").fetch();
     } catch (e) {
-      error({ message: "Blog posts not found" });
+      error({ message: "Blog posts no encontrado" });
     }
     return { posts };
   },

@@ -44,7 +44,7 @@
     </div>
   </div>
   <p v-else class="max-w-5xl mx-auto">
-    {{ amount > 1 ? 'Posts not found' : 'Post not found' }}
+    {{ amount > 1 ? 'Posts no encontrado' : 'Post no encontrado' }}
   </p>
 </template>
 
