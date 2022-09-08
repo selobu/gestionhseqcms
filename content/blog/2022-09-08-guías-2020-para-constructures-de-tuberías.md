@@ -25,11 +25,11 @@ El tamaño y altura de la etiqueta se determinan por le diámetro global de la t
 | 6.8” - 10”                                                  | 171 - 254 mm | 24”                | 610 mm | 2.5”                | 64 mm |
 | Over 10”                                                    | Over 254 mm  | 32”                | 813 mm | 3.5”                | 89 mm |
 
-
-
 **Diagrama 1: Diagrama etiquedato de tubería**
 
 ![Diagram 1: Pipe Marker Layout](https://ww2.kolbipipemarkers.com/hubfs/assets-2022/Diagram%201%20Pipe%20Marker%20Layout%20(1).png)
+
+!﻿[Diagrama 2](https://www.graphicproducts.com/media/images/pipe-size-chart-float.jpg)
 
 ### SIGNIFICADO DE LOS COLORES
 
@@ -38,19 +38,7 @@ V﻿er tabla 2.
 
 #### Tabla 2: Designación de los colores.
 
-| Fluido de Servicio                           | Letters & Colors |
-| -------------------------------------------- | ---------------- |
-| Fluidos para el control de incendios         | ![rojo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_rectangle.svg/64px-Red_rectangle.svg.png)       |
-| F﻿luidos tóxicos y corrosivos                | ![anaranjado](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Single_Color_Flag_-_E65C01.svg/64px-Single_Color_Flag_-_E65C01.svg.png)           |
-| L﻿íquidos inflamables                        | ![amarillo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Single_Color_Flag_-_FFFF00.svg/64px-Single_Color_Flag_-_FFFF00.svg.png)         |
-| F﻿luidos combustibles                        | LETTERS          |
-| Agua potable, enfriamiento, herbidores, otra | LETTERS          |
-| T﻿uberías abandonadas                        | LETTERS          |
-| Aire comprimido                              | LETTERS          |
-| Definido por el usuario                      | LETTERS          |
-| Definido por el usuario                      | LETTERS          |
-| Definido por el usuario                      | LETTERS          |
-| Definido por el usuario                      | LETTERS          |
+![Diagram 2: Pipe Marker with arrow tape](/img/colores-y-letras-tuberías.png)
 
 ### CÓMO SE DETERMINA LA LEYENDA?
 
