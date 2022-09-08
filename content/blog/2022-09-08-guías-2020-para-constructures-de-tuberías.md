@@ -9,7 +9,7 @@ S﻿abías que los estándares para etiquetar las tuberías cambiaron? El estand
 
 * E﻿l estándar mas reciente 2020 incluye nuevos requerimientos para el  tamñano de letra en comparación con el diámetro de la tubería.
 * E﻿l estándar A13.1-2020  incluye una guía para marcar las tuberías abandonadas
-* E﻿l estándar A13.1-2020 continúa con la adición opcional de los pictogramas GHS(sistema globlamente armonizado)
+* E﻿l estándar A13.1-2020 continúa con la adición opcional de los pictogramas SGA (sistema globlamente armonizado)
 
 ### CÓMO SE DETERMINA EL TAMAÑO Y ALTURA DE LAS LETRAS?
 
@@ -25,7 +25,9 @@ El tamaño y altura de la etiqueta se determinan por le diámetro global de la t
 | 6.8” - 10”                                                  | 171 - 254 mm | 24”                | 610 mm | 2.5”                | 64 mm |
 | Over 10”                                                    | Over 254 mm  | 32”                | 813 mm | 3.5”                | 89 mm |
 
-**Diagrama 1: Pipe Marker Layout**
+
+
+**Diagrama 1: Diagrama etiquedato de tubería**
 
 ![Diagram 1: Pipe Marker Layout](https://ww2.kolbipipemarkers.com/hubfs/assets-2022/Diagram%201%20Pipe%20Marker%20Layout%20(1).png)
 
@@ -68,21 +70,21 @@ L﻿a ubicación de las etiqueras requiere asegurar visibilidad y se deben posic
 
 ![](https://ww2.kolbipipemarkers.com/hubfs/marker-placement.png)
 
-#### Table 3: Location of Identification Markers
+#### Table 3: Ubicación de las etiquetas de identificación
 
 ![](https://ww2.kolbipipemarkers.com/hubfs/table-three-image.png)
 
-### DO I USE GHS PICTOGRAMS?
+### DEBO USAR PICTOGRAMAS GHS?
 
-The use of GHS pictograms or symbols is optional. Where piping is connected to containers labeled in accordance with GHS requirements, a corresponding label which includes pictograms may be provided. See Table 4 - Standard GHS Pictograms.
+E﻿l uso de pictogramas y símbolos del SGA (sistema globalmente armonizado) es opcional. En los sitios donde la tubería se conecte con contendores etiquetado acorde con los requerimientos del SGA, se debe de proveer un pictograma del SGA.
 
-#### Table 4: GHS Pictograms
+#### Tabla 4: Pictogramas SGA
 
 ![](https://ww2.kolbipipemarkers.com/hubfs/table-four-image.png)
 
-### WHAT ABOUT MARKING ABANDONED PIPING?
+### Y EL ETIQUETADO DE TUBERÍAS ABANDONADAS?
 
-The new 2020 standard recommends marking abandoned piping left in place. These should be marked with a safety white marker with black letters and include a black border. If the piping is protected by pressurized fluid or contains residual hazardous materials, the legend should indicate that.
+E﻿l nuevo estandar recomienda etiquetar las tuberías abandonadas en el sitio. Estas deberán estar etiquetadas con una etiqueta de seguridad banca con letras negras que incluye un borde negro. Si la tubería esta protegida por un fluido presurizado o contiene  material residual peligroso deberá indicarlo en la leyenda.
 
 ![](https://ww2.kolbipipemarkers.com/hubfs/Abandoned-Pipes.png)
 
