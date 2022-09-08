@@ -4,7 +4,7 @@
       <div class="p-5">
         <img :src="require('/static/cmsicon.png')" width="160px" />
       </div>
-      <h1 class="title text-center">GextionHSEQ</h1>
+      <a href="https://gestionhseq.com"><h1 class="title text-center">GestionHSEQ</h1></a>
       <h2 class="subtitle text-center">CMS</h2>
     </section>
     <section class="mt-8">
