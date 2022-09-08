@@ -36,29 +36,29 @@ V﻿er tabla 2.
 
 #### Tabla 2: Designación de los colores.
 
-| Fluido de Servicio                         | Letters & Colors |
-| ------------------------------------------ | ---------------- |
-| Fire Quenching Fluids                      | LETTERS          |
-| Toxic And Corrosive Fluids                 | LETTERS          |
-| Flammable Liquids                          | LETTERS          |
-| Combustible Fluids                         | LETTERS          |
-| Potable, Cooling, Boiler Feed, Other Water | LETTERS          |
-| Abandoned Pipes                            | LETTERS          |
-| Compressed Air                             | LETTERS          |
-| Defined By User                            | LETTERS          |
-| Defined By User                            | LETTERS          |
-| Defined By User                            | LETTERS          |
-| Defined By User                            | LETTERS          |
+| Fluido de Servicio                           | Letters & Colors |
+| -------------------------------------------- | ---------------- |
+| Fluidos para el control de incendios         | LETTERS          |
+| F﻿luidos tóxicos y corrosivos                | LETTERS          |
+| L﻿íquidos inflamables                        | LETTERS          |
+| F﻿luidos combustibles                        | LETTERS          |
+| Agua potable, enfriamiento, herbidores, otra | LETTERS          |
+| T﻿uberías abandonadas                        | LETTERS          |
+| Aire comprimido                              | LETTERS          |
+| Definido por el usuario                      | LETTERS          |
+| Definido por el usuario                      | LETTERS          |
+| Definido por el usuario                      | LETTERS          |
+| Definido por el usuario                      | LETTERS          |
 
-### HOW IS THE LEGEND DETERMINED?
+### CÓMO SE DETERMINA LA LEYENDA?
 
-The wording can be the full or abbreviated name of the system content. The standard indicates “Legends shall be brief, informative, pointed, and simple for greatest effectiveness.” The legend should have “sufficient additional details such as temperature, pressure, etc., as are necessary to identify the hazard.” - 
+El texto puede ser completo o abreviado con el conternido del sistema. El estandar indica que las leyendas deben ser cortas, informativas, puntuales y simples para ser efectivas. La leyenda debe tener detalles adicionales sificientes como temperatura, persión y otros como sean necesarios para identificar el peligro.
 
-### WHY USE DIRECTIONAL ARROWS?
+### P﻿OR QUÉ USAR FLECHAS DIRECCIONALES?
 
-Arrows are used to show the directional flow of the piping contents. If flow can be in both directions, arrows in both directions should be used. (Kolbi’s Wrap-Around Markers include arrows. Adhesive Markers comply when used with Arrow Banding Tape or Individual Arrows)
+L﻿as flechas se usan para mostrar la dirección del flujo del contenido de las tuberías. Si el flujo puede ser en ambas direcciones entonces las fechas también.
 
-**Diagram 2: Pipe Marker with arrow tape**
+**Diagrama 2: Etiquetado de tubería con dirección de flujo**
 
 ![Diagram 2: Pipe Marker with arrow tape](https://ww2.kolbipipemarkers.com/hubfs/assets-2022/Diagram%202%20Pipe%20Marker%20with%20arrow%20tape%20(1).png)
 
