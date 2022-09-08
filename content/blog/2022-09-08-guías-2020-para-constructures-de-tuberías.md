@@ -62,9 +62,9 @@ L﻿as flechas se usan para mostrar la dirección del flujo del contenido de las
 
 ![Diagram 2: Pipe Marker with arrow tape](https://ww2.kolbipipemarkers.com/hubfs/assets-2022/Diagram%202%20Pipe%20Marker%20with%20arrow%20tape%20(1).png)
 
-### WHERE DO THE MARKERS GO?
+### DONDE VAN LAS ETIQUETAS?
 
-Marker placement is required to assure visibility and should be positioned so that they are visible to personnel from a normal point of approach. Where pipes are located above or below the normal line of vision, the lettering should be placed above or below the horizontal centerline of the pipe. See Table 3 – “Location of Identification Markers”.
+L﻿a ubicación de las etiqueras requiere asegurar visibilidad y se deben posicionar para que sean visibles para el personal desde un punto de aproximación normal. En los sitios donde la etiqueta está encima o debajo de la línea normal de visión, la etiqueta deberá ubicarse encima o debajo de la línea horizontal de la tubería, según corresponda. Ver tabla 3
 
 ![](https://ww2.kolbipipemarkers.com/hubfs/marker-placement.png)
 
