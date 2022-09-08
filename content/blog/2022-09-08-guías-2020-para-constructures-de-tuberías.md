@@ -40,9 +40,9 @@ V﻿er tabla 2.
 
 | Fluido de Servicio                           | Letters & Colors |
 | -------------------------------------------- | ---------------- |
-| Fluidos para el control de incendios         | LETTERS          |
-| F﻿luidos tóxicos y corrosivos                | LETTERS          |
-| L﻿íquidos inflamables                        | LETTERS          |
+| Fluidos para el control de incendios         | ![rojo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_rectangle.svg/64px-Red_rectangle.svg.png)       |
+| F﻿luidos tóxicos y corrosivos                | ![anaranjado](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Single_Color_Flag_-_E65C01.svg/64px-Single_Color_Flag_-_E65C01.svg.png)           |
+| L﻿íquidos inflamables                        | ![amarillo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Single_Color_Flag_-_FFFF00.svg/64px-Single_Color_Flag_-_FFFF00.svg.png)         |
 | F﻿luidos combustibles                        | LETTERS          |
 | Agua potable, enfriamiento, herbidores, otra | LETTERS          |
 | T﻿uberías abandonadas                        | LETTERS          |
