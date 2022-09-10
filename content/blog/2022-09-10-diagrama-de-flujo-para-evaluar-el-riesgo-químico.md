@@ -15,3 +15,7 @@ De acuerdo con lo estipulado, en el artículo 2 del decreto, el Sistema Global A
 Se busca que las empresas les brinden una mayor seguridad a sus empleados y clientes, la empresa que realice este tipo de negocio debe de enviarle la hoja de seguridad del producto al cliente por lo menos una semana antes y si es posible una capacitación técnica del producto a recibir, con el objetivo de brindar la seguridad tanto de la empresa como la del cliente.
 
 ![Diagrama valoración inicial riesgo químico](/img/diagrama-aproximado-para-la-evaluación-inicial-de-sustancias-peligrosas-para-la-salud.png)
+
+E﻿strategia para manejar y evaluar la exposición ocupacional
+
+![](/img/estrategiamanejoexposicionocupacional.png)
