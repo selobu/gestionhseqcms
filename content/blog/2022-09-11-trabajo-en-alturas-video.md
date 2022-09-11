@@ -9,5 +9,6 @@ E﻿n Colombia el trabajo en alturas está regulado actualmente por la Resoluci�
 
 C﻿entros de entrenamiento [autorizados en Colombia ](https://app2.mintrabajo.gov.co/CentrosEntrenamiento/oferentes.aspx) por el Ministerio de trabajo.
 
-[![T﻿rabajo en alturas](http://img.youtube.com/vi/ybSsMoNyyL0/0.jpg)](https://www.youtube.com/watch?v=ybSsMoNyyL0&t=5s "T﻿rabajo en alturas")
+### v﻿ideo
 
+[![T﻿rabajo en alturas](http://img.youtube.com/vi/ybSsMoNyyL0/0.jpg)](https://www.youtube.com/watch?v=ybSsMoNyyL0&t=5s "T﻿rabajo en alturas")
