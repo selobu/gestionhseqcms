@@ -27,7 +27,7 @@ El tamaño y altura de la etiqueta se determinan por le diámetro global de la t
 
 **Diagrama 1: Diagrama etiquedato de tubería**
 
-![Diagram 1: Pipe Marker Layout](/img/tuberias-dimension-etiqueta-.png)
+![Diagram 1: Pipe Marker Layout](/img/diagram-1-pipe-marker-layout.png)
 
 !﻿[Diagrama 2](https://www.graphicproducts.com/media/images/pipe-size-chart-float.jpg)
 
