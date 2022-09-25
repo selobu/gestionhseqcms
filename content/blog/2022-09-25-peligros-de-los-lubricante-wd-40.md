@@ -1,6 +1,7 @@
 ---
 createdAt: 2022-09-25
-title: Peligros de los lubricante wd-40
+title: "Peligros de los lubricantes "
+description: Revisión del lubricante wd-40
 ---
 ![](/img/5cb71b17cf03c431266130.jpg)
 
