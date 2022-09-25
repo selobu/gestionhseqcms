@@ -3,8 +3,6 @@ createdAt: 2022-09-25
 title: Peligros de los lubricantes
 description: Analizando el lubricante wd-40 y sus peligros para la salud|
 ---
-
-
 ![Lubricante](/img/5cb71b17cf03c431266130.jpg)
 
 Los lubricantes son sustancias que hacen disminuir la fricción entre superficies en contacto y evitan la degradación y desgaste. Se suelen utilizar en estado líquido y son producidos  genralmente a partir de derivados del petróleo.
@@ -55,4 +53,4 @@ Elementos de proteccíon persona que se deberían utilizar para manipular este
 * Guantes
 * Mascara con filtros adecuados.
 
-Para mayor asesoría sobre estos temas https://gestionhse.com/#contacto
+Para mayor asesoría sobre estos temas https://gestionhseq.com/#contacto
