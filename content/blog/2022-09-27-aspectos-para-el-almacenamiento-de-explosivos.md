@@ -33,3 +33,5 @@ A﻿corde con el tipo de magazines (1-5) dependerá sus características de cons
 12. T﻿odos los magazines ubicados en exteriores deberán estar protegidos por barricadas, las cuales deben cubrir todas las caras del magazine.
 
 L﻿os magazines según su tipo deberán de cumplir con requerimientos específicos según lo indica el instructivo; las barricadas también deberán cumplir con unos requisitos específicos.
+
+P﻿ara mayor información o asesoría escríbanos a <https://gestionhseq.com/#contacto>
