@@ -36,8 +36,12 @@ Cada persona debe propender por el cuidado de sí mismo, de los seres queridos y
 
 **Medidas adicionales**:
 
-Otra de las medidas para evitar el contagio de covid por contacto directo o indirecto es reducir el uso del papel y evitar compartir documentos en físico, como por ejemplo las situaciones que se generan en las reuniones o charlar preoperativas cuando las personas de distancian dos metros pero al momento de realizar la firma utilizan una misma hoja y pueden compartir el lapicero, esto también ocurre durante la firma de los permisos de trabajo; para controlar esta situacion ponemos a su disposición software para participar en reuniones [brochure](https://selobu.pythonanywhere.com/static/brochure/index.html) [software](https://hse.gestionhseq.com)
+Otra de las medidas para evitar el contagio de covid por contacto directo o indirecto es reducir el uso del papel y evitar compartir documentos en físico, como por ejemplo las situaciones que se generan en las reuniones o charlar preoperativas cuando las personas de distancian dos metros pero al momento de realizar la firma utilizan una misma hoja y pueden compartir el lapicero, esto también ocurre durante la firma de los permisos de trabajo; para controlar esta situacion ponemos a su disposición software para participar en reuniones. 
 
-![](/img/guia-autocuidado-covid-19-nexsys-regional.jpg)
+**Software para reducir el contagio por contacto**:
+
+[brochure](https://selobu.pythonanywhere.com/static/brochure/index.html) [software](https://hse.gestionhseq.com)
+
+![autocuidado](/img/guia-autocuidado-covid-19-nexsys-regional.jpg)
 
 Referencias: *[Resolución 350 de 2022](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20350%20de%202022.pdf)*
