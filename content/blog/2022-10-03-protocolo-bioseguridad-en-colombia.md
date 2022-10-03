@@ -1,6 +1,6 @@
 ---
 createdAt: 2022-10-03
-title: Protocolo bioseguridad en colombia
+title: Protocolo de bioseguridad en colombia
 description: Medida generales de bioseguridad
 ---
 **Medidas generales**
