@@ -7,6 +7,10 @@ description: Medida generales de bioseguridad
 
 Los actores de cada se ctor, en el marco de sus competencias deberán adoptar e implementar las medidas contenidas en esta resolución a través de las acciones que las hagan efectivas. Corresponde a los habitantes del territorio nacional, en cumplimiento del protocolo que aquí se adopta, aplicar las medidas de autocuidado en el desarrollo de sus actividades, promover el cuidado mutuo orientando al cumplimiento de las medidas de bioseguridad.
 
+![](/img/covid.webp)
+
+
+
 Los alcaldes municipales y distritales deberán exigir el cumplimiento de la presentación del carné de vacunación o certificado digital de vacunación este último, disponible en el Mivacuna.sispro.qov.co, como requisito para su ingreso a eventos presenciales de carácter público o privado que impliquen asistencia masiva y bares, gastrobares, restaurantes, cines, discotecas, lugares de baile, conciertos, casinos, bingos y actividades de ocio, así como escenarios deportivos, parques de diversiones y temáticos, museos y ferias, por parte de todos los asistentes y participantes. El esquema completo no incluye la dosis de refuerzo. 
 
 Se deberán implementar las siguientes medidas generales:
