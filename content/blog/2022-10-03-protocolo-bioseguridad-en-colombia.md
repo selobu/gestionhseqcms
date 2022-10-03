@@ -9,8 +9,6 @@ Los actores de cada se ctor, en el marco de sus competencias deberán adoptar e 
 
 ![](/img/covid.webp)
 
-
-
 Los alcaldes municipales y distritales deberán exigir el cumplimiento de la presentación del carné de vacunación o certificado digital de vacunación este último, disponible en el Mivacuna.sispro.qov.co, como requisito para su ingreso a eventos presenciales de carácter público o privado que impliquen asistencia masiva y bares, gastrobares, restaurantes, cines, discotecas, lugares de baile, conciertos, casinos, bingos y actividades de ocio, así como escenarios deportivos, parques de diversiones y temáticos, museos y ferias, por parte de todos los asistentes y participantes. El esquema completo no incluye la dosis de refuerzo. 
 
 Se deberán implementar las siguientes medidas generales:
@@ -36,4 +34,4 @@ Cada persona debe propender por el cuidado de sí mismo, de los seres queridos y
 
 ![](/img/guia-autocuidado-covid-19-nexsys-regional.jpg)
 
-R﻿eferencias: *Resolución 350 de 2022*
+R﻿eferencias: *[Resolución 350 de 2022](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%c3%b3n%20No.%20350%20de%202022.pdf)*
