@@ -42,6 +42,6 @@ Otra de las medidas para evitar el contagio de covid por contacto directo o indi
 
 [brochure](https://selobu.pythonanywhere.com/static/brochure/index.html) [software](https://hse.gestionhseq.com)
 
-![autocuidado](/img/guia-autocuidado-covid-19-nexsys-regional.jpg)
+[![autocuidado](/img/guia-autocuidado-covid-19-nexsys-regional.jpg)](https://hse.gestionhseq.com)
 
 Referencias: *[Resolución 350 de 2022](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20350%20de%202022.pdf)*
